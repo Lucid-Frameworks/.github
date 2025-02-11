@@ -1,6 +1,5 @@
 ![Singulix Labs Banner](https://github.com/Lucid-Frameworks/.github/blob/942c3a5e816220db1527b461d85db9b92bf3053a/output.png)
-# Lucid Frameworks: Merging AI with Decentralized Technology
-
+# Lucid Frameworks: Merging AI with Decentralized Technology  
 
 ### A New Approach to AI and Blockchain Synergy  
 
@@ -24,9 +23,9 @@ By integrating AI with blockchain, we build **autonomous, secure, and intelligen
 
 ---  
 
-## Introducing NOVA: AI-Enhanced Blockchain Intelligence  
+## Introducing CRIAMAR: AI-Enhanced Blockchain Intelligence  
 
-**NOVA** is an **AI-driven analytics system** designed to inject intelligence and predictive insights into blockchain networks.  
+**CRIAMAR** is an **AI-driven analytics system** designed to inject intelligence and predictive insights into blockchain networks.  
 
 ### Core Capabilities  
 
@@ -35,9 +34,9 @@ By integrating AI with blockchain, we build **autonomous, secure, and intelligen
 - **Decentralized Consensus Integration** – AI-generated insights are validated through decentralized mechanisms.  
 - **Permissionless and Non-Custodial** – Users retain full autonomy while benefiting from AI-powered automation.  
 
-NOVA is built to function **without centralized oversight**, ensuring that AI serves decentralization rather than undermining it.  
+CRIAMAR is built to function **without centralized oversight**, ensuring that AI serves decentralization rather than undermining it.  
 
-[Explore NOVA in our open-source repository.](#)  
+[Explore CRIAMAR in our open-source repository.](#)  
 
 ---  
 
