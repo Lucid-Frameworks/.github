@@ -1,4 +1,4 @@
-![Singulix Labs Banner]()
+![Singulix Labs Banner](https://github.com/Lucid-Frameworks/.github/blob/942c3a5e816220db1527b461d85db9b92bf3053a/output.png)
 # Lucid Frameworks: Merging AI with Decentralized Technology
 
 
