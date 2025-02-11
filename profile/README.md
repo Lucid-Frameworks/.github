@@ -1,4 +1,6 @@
-# Lucid Frameworks: Merging AI with Decentralized Technology  
+![Singulix Labs Banner]()
+# Lucid Frameworks: Merging AI with Decentralized Technology
+
 
 ### A New Approach to AI and Blockchain Synergy  
 
