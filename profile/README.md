@@ -36,7 +36,7 @@ By integrating AI with blockchain, we build **autonomous, secure, and intelligen
 
 CRIAMAR is built to function **without centralized oversight**, ensuring that AI serves decentralization rather than undermining it.  
 
-[Explore CRIAMAR in our open-source repository.](#)  
+[Explore CRIAMAR in our open-source repository.](https://github.com/Lucid-Frameworks/CRIAMAR)  
 
 ---  
 
@@ -60,7 +60,7 @@ Lucid Frameworks is a **collaborative, open-source project**. Whether you're a d
 - **Researchers** – Advance AI-driven decision-making techniques for blockchain use cases.  
 - **Community Members** – Engage in discussions, test models, and provide critical feedback.  
 
-[Check our contribution guidelines to start.](#)  
+[Check our contribution guidelines to start.](https://github.com/Lucid-Frameworks)  
 
 ---  
 
