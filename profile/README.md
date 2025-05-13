@@ -69,7 +69,7 @@ Lucid Frameworks is a **collaborative, open-source project**. Whether you're a d
 To stay updated and participate in the evolution of AI-powered decentralization, connect with us:  
 
 - **Website:** [LucidFrameworks.io](#)  
-- **Twitter:** [@LucidFrameworks](#)  
+- **Twitter:** [@LucidFrameworks](https://x.com/lucidframeworks)
 
 AI and blockchain integration is no longer a future concept—it is happening now. Be part of the movement driving decentralized intelligence forward.  
 
